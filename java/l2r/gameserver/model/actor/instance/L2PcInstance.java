@@ -13658,7 +13658,7 @@ public final class L2PcInstance extends L2Playable
 	}
 	
 	// ============================================== //
-	// Prime Shop Engine By L][Sunrise Team //
+	// Prime Shop Engine By L2-Turbo //
 	// ============================================== //
 	private long _gamePoints = -1;
 	
@@ -13673,7 +13673,7 @@ public final class L2PcInstance extends L2Playable
 	}
 	
 	// ============================================== //
-	// Donate Engine By L][Sunrise Team //
+	// Donate Engine By L2-Turbo //
 	// ============================================== //
 	public void setDonateCode(StringBuilder finalString)
 	{
@@ -13696,7 +13696,7 @@ public final class L2PcInstance extends L2Playable
 	}
 	
 	// ============================================== //
-	// Antibot Engine By L][Sunrise Team //
+	// Antibot Engine By L2-Turbo //
 	// ============================================== //
 	public String getBotAnswer()
 	{
@@ -14075,7 +14075,7 @@ public final class L2PcInstance extends L2Playable
 	}
 	
 	// ============================================== //
-	// Achievements Engine By L][Sunrise Team //
+	// Achievements Engine By L2-Turbo //
 	// ============================================== //
 	private boolean _killedSpecificMob = false;
 	public final List<Integer> _completedAchievements = new CopyOnWriteArrayList<>();
@@ -14104,7 +14104,7 @@ public final class L2PcInstance extends L2Playable
 	}
 	
 	// ============================================== //
-	// Sunrise FlagZone Engine By L][Sunrise Team //
+	// Sunrise FlagZone Engine By L2-Turbo //
 	// ============================================== //
 	private int sameTargetCounter = 0;
 	private long previousVictimId = 0;
@@ -14135,12 +14135,12 @@ public final class L2PcInstance extends L2Playable
 	}
 	
 	// ============================================== //
-	// Sunrise Event Engine By L][Sunrise Team //
+	// Sunrise Event Engine By L2-Turbo //
 	// ============================================== //
 	private final PlayerEventInfo _eventInfo = new PlayerEventInfo(this);
 	
 	// ============================================== //
-	// Antifeed Protection Engine By L][Sunrise Team //
+	// Antifeed Protection Engine By L2-Turbo //
 	// ============================================== //
 	// For Flag zone
 	private boolean _antiFeed = false;
@@ -14342,7 +14342,7 @@ public final class L2PcInstance extends L2Playable
 		return _pcAdmin;
 	}
 	
-	// Delay Engine By L][Sunrise Team
+	// Delay Engine By L2-Turbo
 	private long _lastAttackPacket = 0;
 	private long _lastMovePacket = 0;
 	private long _lastRequestMagicPacket = 0;
@@ -14399,7 +14399,7 @@ public final class L2PcInstance extends L2Playable
 	}
 	
 	// ============================================== //
-	// Premium Engine By L][Sunrise Team //
+	// Premium Engine By L2-Turbo //
 	// ============================================== //
 	private boolean _premiumService = false;
 	
@@ -14414,7 +14414,7 @@ public final class L2PcInstance extends L2Playable
 	}
 	
 	// ============================================== //
-	// Variables Engine By L][Sunrise Team //
+	// Variables Engine By L2-Turbo //
 	// ============================================== //
 	private final PcVariables _sunriseVariables = new PcVariables(this);
 	

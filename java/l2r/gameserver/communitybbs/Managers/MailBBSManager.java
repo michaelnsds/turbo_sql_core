@@ -308,7 +308,7 @@ public class MailBBSManager extends BaseBBSManager
 		html.append("</tr>");
 		html.append("</table>");
 		html.append("<br><img src=\"L2UI.SquareGray\" width=770 height=1><br>");
-		html.append("<center><font color=\"LEVEL\">L][Sunrise Team</font></center><br>");
+		html.append("<center><font color=\"LEVEL\">L2-Turbo</font></center><br>");
 		html.append("</center></center>");
 		html.append("</body></html>");
 		separateAndSend(html.toString(), activeChar);
@@ -386,7 +386,7 @@ public class MailBBSManager extends BaseBBSManager
 		html.append("</tr>");
 		html.append("</table>");
 		html.append("<br><img src=\"L2UI.SquareGray\" width=770 height=1><br>");
-		html.append("<center><font color=\"LEVEL\">L][Sunrise Team</font></center><br>");
+		html.append("<center><font color=\"LEVEL\">L2-Turbo</font></center><br>");
 		html.append("</center></center>");
 		html.append("</body></html>");
 		separateAndSend(html.toString(), activeChar);
@@ -493,7 +493,7 @@ public class MailBBSManager extends BaseBBSManager
 		html.append("</tr>");
 		html.append("</table>");
 		html.append("<br><img src=\"L2UI.SquareGray\" width=770 height=1><br>");
-		html.append("<center><font color=\"LEVEL\">L][Sunrise Team</font></center><br>");
+		html.append("<center><font color=\"LEVEL\">L2-Turbo</font></center><br>");
 		html.append("</center></center>");
 		html.append("</body></html>");
 		separateAndSend(html.toString(), activeChar);
@@ -600,7 +600,7 @@ public class MailBBSManager extends BaseBBSManager
 		html.append("</tr>");
 		html.append("</table>");
 		html.append("<br><img src=\"L2UI.SquareGray\" width=770 height=1><br>");
-		html.append("<center><font color=\"LEVEL\">L][Sunrise Team</font></center><br>");
+		html.append("<center><font color=\"LEVEL\">L2-Turbo</font></center><br>");
 		html.append("</center></center>");
 		html.append("</body></html>");
 		separateAndSend(html.toString(), activeChar);
@@ -707,7 +707,7 @@ public class MailBBSManager extends BaseBBSManager
 		html.append("</tr>");
 		html.append("</table>");
 		html.append("<br><img src=\"L2UI.SquareGray\" width=770 height=1><br>");
-		html.append("<center><font color=\"LEVEL\">L][Sunrise Team</font></center><br>");
+		html.append("<center><font color=\"LEVEL\">L2-Turbo</font></center><br>");
 		html.append("</center></center>");
 		html.append("</body></html>");
 		separateAndSend(html.toString(), activeChar);
@@ -767,7 +767,7 @@ public class MailBBSManager extends BaseBBSManager
 		html.append("</tr>");
 		html.append("</table>");
 		html.append("<br><img src=\"L2UI.SquareGray\" width=770 height=1><br>");
-		html.append("<center><font color=\"LEVEL\">L][Sunrise Team</font></center><br>");
+		html.append("<center><font color=\"LEVEL\">L2-Turbo</font></center><br>");
 		html.append("</center>");
 		html.append("</body></html>");
 		separateAndSend(html.toString(), activeChar);
@@ -827,7 +827,7 @@ public class MailBBSManager extends BaseBBSManager
 		html.append("</tr>");
 		html.append("</table>");
 		html.append("<br><img src=\"L2UI.SquareGray\" width=770 height=1><br>");
-		html.append("<center><font color=\"LEVEL\">L][Sunrise Team</font></center><br>");
+		html.append("<center><font color=\"LEVEL\">L2-Turbo</font></center><br>");
 		html.append("</center>");
 		html.append("</body></html>");
 		send1001(html.toString(), activeChar);
